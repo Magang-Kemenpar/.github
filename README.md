@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Ganti "logo-kemenpar.png" dengan nama file atau link gambar aslimu -->
-  <img width="1024" height="1024" alt="logo-kemenpar" src="https://github.com/user-attachments/assets/ab52f60e-8aac-4142-b4ee-95bfb00fff31" />
+  <img width="250"  alt="logo-kemenpar" src="https://github.com/user-attachments/assets/ab52f60e-8aac-4142-b4ee-95bfb00fff31" />
   
   # Magang Kemenpar
   ### Dashboard Database
